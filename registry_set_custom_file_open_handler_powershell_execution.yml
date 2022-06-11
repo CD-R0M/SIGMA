@@ -1,6 +1,6 @@
 title: Custom File Open Handler Executes PowerShell
 id: 7530b96f-ad8e-431d-a04d-ac85cc461fdc
-description: Detects the abuse of custom file open handler
+description: Detects the abuse of custom file open handler, executing powershell
 author: CD_R0M_
 date: 2022/06/11
 status: experimental
